@@ -3,7 +3,7 @@
 
 **Execution Date:** [Insert execution date]  
 **Version:** [Insert tested version]  
-**Tester:** [Your Name]  
+**Tester:** Glenio Filho.  
 
 ---
 
