@@ -1,38 +1,24 @@
-# 🗺️ Urban Routes - QA Test Reports
+# QA Sprint 1 - Urban Routes
 
-Welcome to the **Quality Assurance** section of the **Urban Routes** project.
+## 🛠️ Project Description
+In this sprint, the focus was on **test design** and **test execution** for the **Urban Routes** application. The objective was to ensure that the route filtering system works correctly, displaying the appropriate routes based on city selection.
 
-This folder contains all test reports, bug summaries, and quality-related documentation for each sprint.
+Test cases were created to validate the functionality of the route search based on cities, ensuring the feature works as expected.
 
----
+## 🎯 Objective
+Ensure that the system correctly returns available routes for selected cities, validating that the filter functionality is working properly and the routes are displayed as expected.
 
-## 📄 Included
+## 📂 Repository Structure
+- **test-cases.md** → Detailed test cases written for the route search functionality.
+- **bug-reports.md** → Report of bugs identified during the testing phase.
+- **TEST_REPORT_SPRINT1.md** → Summary of the tests executed and results for Sprint 1.
 
-- **TEST_REPORT_SPRINT1.md** — Full test report for **Sprint 1**.
+## 🚀 Tools Used
+- **Google Sheets** for documenting the test cases and results.
+- **Manual testing tools** for executing functional tests and validating the system behavior.
 
----
-
-## 💡 About
-
-Our mission is to ensure that **Urban Routes** is reliable and user-friendly, catching all critical issues before release.
-
----
-
-## ✅ What's New?
-
-Always check the latest report for updates on bugs and test results!
+## 🔗 How to Contribute
+Feel free to submit a Pull Request or suggest improvements if you'd like to contribute to this repository.
 
 ---
-
-## 🛠️ Test Cases and Bug Reports
-
-### Test Cases for Sprint 1
-- Detailed test cases, conditions, steps, and expected results for various features of the Urban Routes app.
-
-### Bug Reports
-- A summary of critical bugs found during testing, including steps to reproduce, expected results, and severity of each issue.
-
----
-
-Thank you for reviewing the QA documentation for **Urban Routes**!  
-For any inquiries, please refer to the full test reports.
+🧪 *Created by Glenio Filho as part of QA training.*
