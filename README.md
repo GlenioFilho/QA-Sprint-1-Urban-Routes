@@ -1,28 +1,18 @@
-# QA Sprint 1 - Urban Routes
 
-## 🛠️ Descrição do Projeto
-Este repositório contém os casos de teste e relatórios de bug do **Teste de Regressão do Urban Routes**, um aplicativo de rotas que calcula tempo e custo de viagem para diferentes tipos de transporte.
+# 🗺️ Urban Routes - QA Test Reports
 
-## 🎯 Objetivo
-Executar um **teste de regressão** no Urban Routes para garantir que funcionalidades existentes não foram comprometidas após atualizações.
+Welcome to the Quality Assurance section of the Urban Routes project.
 
-## 📌 O que foi testado?
-- Inserção de endereços ("De" e "Para")
-- Modos de transporte disponíveis ("Optimal," "Flash," "Personal")
-- Cálculo de tempo e custo
-- Bugs encontrados e reportados
+This folder contains all test reports, bug summaries, and quality-related documentation for each sprint.
 
-## 📂 Estrutura do Repositório
-- **test-cases.md** → Lista detalhada dos casos de teste executados
-- **bug-reports.md** → Relatórios dos bugs encontrados
+## 📄 Included
 
-## 🚀 Ferramentas Utilizadas
-- **Google Chrome** para execução dos testes
-- **Planilhas do Google** para documentação
-- **JIRA/Trello** para rastreamento de bugs
+- `TEST_REPORT_SPRINT1.md` — Full test report for Sprint 1.
 
-## 🔗 Como Contribuir
-Se desejar contribuir, sinta-se à vontade para enviar um Pull Request ou relatar novos bugs.
+## 💡 About
+
+Our mission is to ensure that Urban Routes is reliable and user-friendly, catching all critical issues before release.
 
 ---
-🧪 *Criado por Glenio Filho como parte do treinamento de QA.*
+
+✅ Always check the latest report for updates on bugs and test results!
