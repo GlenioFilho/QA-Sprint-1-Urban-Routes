@@ -47,4 +47,4 @@ The goal of this project was to:
 ## 🔗 How to Contribute
 Feel free to fork this repository, submit a pull request, or suggest improvements. Contributions to improve the documentation, test cases, or bug reports are always welcome!
 
-## 🧪 Created by [Your Name] as part of QA training.
+## 🧪 Created by GlenioFilho as part of QA training.
