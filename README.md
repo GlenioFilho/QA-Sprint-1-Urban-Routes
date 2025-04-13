@@ -13,11 +13,6 @@ The goal of this project was to:
 - Identify and report any bugs found during testing.
 - Ensure that the application's features, such as route calculation and transportation modes, work as expected after recent changes.
 
-## 📂 Repository Structure
-- **test-cases.md** → Contains the detailed test cases written for the regression testing.
-- **bug-reports.md** → Includes reports of bugs identified during testing.
-- **TEST_REPORT_SPRINT1.md** → Summary of the tests executed, results, and bugs reported for Sprint 1.
-
 ## 🚀 Tools Used
 - **Google Sheets**: Used for documenting test cases and bug reports.
 - **Manual Testing**: Executed using Google Chrome.
